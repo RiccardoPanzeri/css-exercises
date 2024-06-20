@@ -1,0 +1,17 @@
+.black_button{
+
+    color:#ffffff;
+    background-color: #000000;
+    font-weight:bold;
+}
+
+.yellow_button{
+    background-color: #fffb00;
+
+}
+
+.black_button, .yellow_button{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
